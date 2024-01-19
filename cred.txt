@@ -1,2 +1,0 @@
-username= Hamza
-password= 123
